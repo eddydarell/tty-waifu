@@ -251,9 +251,9 @@ This project is licensed under the GPL-2.0 license. See the [LICENSE](LICENSE) f
 
 ## 🙏 Credits
 
-- **waifu.im API** - For providing high-quality anime images
-- **jp2a** - For ASCII art conversion
-- **Deno** - For the modern JavaScript/TypeScript runtime
+- **[waifu.im API](https://docs.waifu.im/)** - For providing high-quality anime images
+- **[jp2a](https://github.com/cslarsen/jp2a)** - For ASCII art conversion
+- **[Deno](https://deno.com/)** - For the modern JavaScript/TypeScript runtime
 
 ## ⚠️ Disclaimer
 
